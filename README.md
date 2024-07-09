@@ -3,7 +3,6 @@
 
 [![alt-text](https://img.shields.io/badge/-telegram-grey?style=flat&logo=telegram&logoColor=white)](https://t.me/grfoger)
 [![alt-text](https://img.shields.io/badge/@%20email-005FED?style=flat&logo=mail&logoColor=white)](mailto:grfoger@gmail.com)\
-☏ +7(967)064-19-20
 
 ### My GitHub Stats:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=grfoger&layout=compact)](https://github.com/BazarnovSergey/github-readme-stats)\
